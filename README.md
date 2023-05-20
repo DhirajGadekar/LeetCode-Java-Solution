@@ -1,10 +1,19 @@
-# LeetCode-Java-Solution
+<div align="center">
+<a href="https://walkccc.github.io/LeetCode/"><img src="https://i.imgur.com/IsS5xkZ.png" width="150" title="LeetCode" alt="LeetCode"></a>
+<h1>LeetCode Solutions</h1>
+<span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> in Java. This repository aims to provide code with <strong>good readability</strong> and <strong>consistent style</strong> over various topics and embraces new standards.</i></span>
+<br/>
+</div>
+
 
 # Total: 13
 
 |   Easy  |  Medium | Hard |  -  |
 |:-------:|:-------:|:----:|:---:|
 |   12    |   0     |   1  | 13  |
+
+# states : 
+[![dhirajgadekar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dhirajgadekar&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
 
 # Array :
 
