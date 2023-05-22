@@ -22,18 +22,18 @@
 | Question | Solution | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Array/Easy/1_TwoSum.java) | Easy |
-| [2. Find The Pivot Integer]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/2_FindThePivotInteger.java) | Easy |
-| [3. LengthofLastWord.]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/3_LengthofLastWord.java) | Easy |
-| [4. Find Numbers with Even Number of Digits]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/4_FindNumberswithEvenNumberofDigits.java) | Easy |
-| [5. Find Pivot Index]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/5_FindPivotIndex.java) | Easy |
-| [6. Missing Number]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/6_MissingNumber.java) | Easy |
-| [7. Reverse String]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/7_ReverseString.java) | Easy |
-| [8. Running Sum of 1d Array]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/8_RunningSumof1dArray.java) | Easy |
-| [9. Find The Highest Altitude]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/9_FindTheHighestAltitude.java) | Easy |
-| [10. Find the Index of the First Occurrence in a String]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/10_FindtheIndexoftheFirstOccurrenceinaString.java) | Easy |
-| [11. Search Insert Position]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/11_SearchInsertPosition.java) | Easy |
-| [12. Remove Element]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/12_RemoveElement.java) | Easy |
-| [13. ]() | [Solution]() | Easy |
-| [14. Two Sum]() | [Solution]() | Easy |
-| [15. Two Sum]() | [Solution]() | Easy |
-| [16. Median of Two Sorted Arrays]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/1_MedianofTwoSortedArrays.java) | Hard |
+| [2. Find The Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/2_FindThePivotInteger.java) | Easy |
+| [3. LengthofLastWord](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/3_LengthofLastWord.java) | Easy |
+| [4. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/4_FindNumberswithEvenNumberofDigits.java) | Easy |
+| [5. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/5_FindPivotIndex.java) | Easy |
+| [6. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/6_MissingNumber.java) | Easy |
+| [7. Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/7_ReverseString.java) | Easy |
+| [8. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/8_RunningSumof1dArray.java) | Easy |
+| [9. Find The Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/9_FindTheHighestAltitude.java) | Easy |
+| [10. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/10_FindtheIndexoftheFirstOccurrenceinaString.java) | Easy |
+| [11. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/11_SearchInsertPosition.java) | Easy |
+| [12. Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/12_RemoveElement.java) | Easy |
+| [13. Right Left Sum Differnce](https://leetcode.com/problems/left-and-right-sum-differences/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/13_RightLeftSumDiffernce.java) | Easy |
+| [14. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/14_SquaresofaSortedArray.java) | Easy |
+| [15. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/15_ValidPalindrome.java) | Easy |
+| [16. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/1_MedianofTwoSortedArrays.java) | Hard |
