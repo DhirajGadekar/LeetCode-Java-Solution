@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 13
+# Total: 16
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   12    |   0     |   1  |   13  |
+|   15    |   0     |   1  |   13  |
 
 # states : 
 [![dhirajgadekar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dhirajgadekar&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
