@@ -17,7 +17,7 @@
 # states : 
 [![dhirajgadekar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dhirajgadekar&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
 
-# Array :
+# Problems :
 
 | Question | Solution | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
