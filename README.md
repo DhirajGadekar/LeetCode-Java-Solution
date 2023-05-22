@@ -14,9 +14,6 @@
 |:-------:|:-------:|:----:|:-----:|
 |   15    |   0     |   1  |   13  |
 
-# states : 
-[![dhirajgadekar's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dhirajgadekar&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
-
 # Problems :
 
 | Question | Solution | Difficulty |
