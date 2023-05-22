@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 16
+# Total: 17
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   15    |   0     |   1  |   16  |
+|   15    |   1     |   1  |   17  |
 
 # Problems :
 
@@ -34,3 +34,4 @@
 | [14. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/14_SquaresofaSortedArray.java) | Easy |
 | [15. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/15_ValidPalindrome.java) | Easy |
 | [16. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/1_MedianofTwoSortedArrays.java) | Hard |
+| [17. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/17_FindtheDuplicateNumber.java) | Medium |
