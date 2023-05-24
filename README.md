@@ -36,3 +36,15 @@
 | [16. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/1_MedianofTwoSortedArrays.java) | Hard |
 | [17. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/17_FindtheDuplicateNumber.java) | Medium |
 | [18. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/18_SortanArray.java) | Medium |
+
+## Contributor :  
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/DhirajGadekar"><img src="https://avatars.githubusercontent.com/u/111908836?v=4" width="100px;" alt="Dhiraj Gadekar"/><br/><sub><b>Dhiraj Gadekar</b></sub></a><br/>
+</tr>
+</table>
+
+## Feedback
+
+If you have any feedback, please reach out to us at dhirajgadekar.work@gmail.com
