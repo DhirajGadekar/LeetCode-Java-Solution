@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 18
+# Total: 19
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   15    |   2     |   1  |   17  |
+|   15    |   3     |   1  |   19  |
 
 # Problems :
 
@@ -36,6 +36,7 @@
 | [16. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/1_MedianofTwoSortedArrays.java) | Hard |
 | [17. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/17_FindtheDuplicateNumber.java) | Medium |
 | [18. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/18_SortanArray.java) | Medium |
+| [19. Sort an Array](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/19_ProductofArrayExceptSelf.java) | Medium |
 
 ## Contributor :  
 
