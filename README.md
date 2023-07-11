@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 19
+# Total: 21
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   15    |   3     |   1  |   19  |
+|   17    |   3     |   1  |   21  |
 
 # Problems :
 
@@ -37,6 +37,8 @@
 | [17. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/17_FindtheDuplicateNumber.java) | Medium |
 | [18. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/18_SortanArray.java) | Medium |
 | [19. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/19_ProductofArrayExceptSelf.java) | Medium |
+| [20. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/20_PalindromeNumber.java) | Easy |
+| [21. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/21_ValidParentheses.java) | Easy |
 
 ## Contributor :  
 
