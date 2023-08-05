@@ -12,7 +12,7 @@
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   17    |   4     |   1  |   22  |
+|   17    |   5     |   1  |   23  |
 
 # Problems :
 
@@ -39,7 +39,8 @@
 | [19. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/19_ProductofArrayExceptSelf.java) | Medium |
 | [20. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/20_PalindromeNumber.java) | Easy |
 | [21. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/21_ValidParentheses.java) | Easy |
-| [22. Reverse Integer]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/22_ReverseInteger.java) | Medium |
+| [22. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/22_ReverseInteger.java) | Medium |
+| [23. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/23_SubarraySumEqualsK.java) | Medium |
 
 ## Contributor :  
 
