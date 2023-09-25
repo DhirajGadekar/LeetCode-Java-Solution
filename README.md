@@ -12,7 +12,7 @@
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   17    |   5     |   1  |   23  |
+|   17    |   8     |   1  |   26  |
 
 # Problems :
 
@@ -41,6 +41,9 @@
 | [21. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/21_ValidParentheses.java) | Easy |
 | [22. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/22_ReverseInteger.java) | Medium |
 | [23. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/23_SubarraySumEqualsK.java) | Medium |
+| [24. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/24_FindFirstandLastPositionofElementInSortedArray.java) | Medium |
+| [25. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/25_FindPeakElement.java) | Medium |
+| [26. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/26_RemoveNthNodeFromEndofList.java) | Medium |
 
 ## Contributor :  
 
