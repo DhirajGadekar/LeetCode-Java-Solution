@@ -8,7 +8,7 @@
 </div>
 
 
-# Total: 22
+# Total: 26
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
