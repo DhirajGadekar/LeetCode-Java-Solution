@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 26
+# Total: 27
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   17    |   8     |   1  |   26  |
+|   17    |   9     |   1  |   27  |
 
 # Problems :
 
@@ -44,6 +44,7 @@
 | [24. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/24_FindFirstandLastPositionofElementInSortedArray.java) | Medium |
 | [25. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/25_FindPeakElement.java) | Medium |
 | [26. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/26_RemoveNthNodeFromEndofList.java) | Medium |
+| [27. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/27_DivideTwoIntegers.java) | Medium |
 
 ## Contributor :  
 
