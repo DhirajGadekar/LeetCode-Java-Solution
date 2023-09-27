@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 28
+# Total: 29
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   17    |   10    |   1  |   28  |
+|   17    |   10    |   2  |   29  |
 
 # Problems :
 
@@ -46,6 +46,7 @@
 | [26. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/26_RemoveNthNodeFromEndofList.java) | Medium |
 | [27. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/27_DivideTwoIntegers.java) | Medium |
 | [28. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/28_LongestSubstringWithoutRepeatingCharacters.java) | Medium |
+| [29. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/29_FirstMissingPositive.java) | Hard |
 
 ## Contributor :  
 
