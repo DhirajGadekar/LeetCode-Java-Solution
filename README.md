@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 30
+# Total: 33
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   18    |   10    |   2  |   30  |
+|   21    |   10    |   2  |   33  |
 
 # Problems :
 
@@ -48,6 +48,9 @@
 | [28. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/28_LongestSubstringWithoutRepeatingCharacters.java) | Medium |
 | [29. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/29_FirstMissingPositive.java) | Hard |
 | [30. Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/30_MajorityElement.java) | Easy |
+| [31. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/31_RemoveDuplicatesfromSortedArray.java) | Easy |
+| [32. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/32_MergeSortedArray.java) | Easy |
+| [33. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/33_MovesZeroes.java) | Easy |
 
 ## Contributor :  
 
