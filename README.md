@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 33
+# Total: 35
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   21    |   10    |   2  |   33  |
+|   23    |   10    |   2  |   35  |
 
 # Problems :
 
@@ -51,6 +51,8 @@
 | [31. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/31_RemoveDuplicatesfromSortedArray.java) | Easy |
 | [32. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/32_MergeSortedArray.java) | Easy |
 | [33. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/33_MovesZeroes.java) | Easy |
+| [34. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/34_FindTheMiddleIndexInArray.java) | Easy |
+| [35. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/35_MergeTwoSortedLists.java) | Easy |
 
 ## Contributor :  
 
