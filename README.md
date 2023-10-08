@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 35
+# Total: 38
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   23    |   10    |   2  |   35  |
+|   25    |   11    |   2  |   38  |
 
 # Problems :
 
@@ -53,6 +53,9 @@
 | [33. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/33_MovesZeroes.java) | Easy |
 | [34. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/34_FindTheMiddleIndexInArray.java) | Easy |
 | [35. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/35_MergeTwoSortedLists.java) | Easy |
+| [36. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/36_RomantoInteger.java) | Easy |
+| [37. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/37_RangeSumQuery-Immutable.java) | Easy |
+| [38. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/38_CountVowelStringsInRanges.java) | Medium |
 
 ## Contributor :  
 
