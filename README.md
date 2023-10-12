@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 38
+# Total: 40
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   25    |   11    |   2  |   38  |
+|   26    |   12    |   2  |   40  |
 
 # Problems :
 
@@ -56,6 +56,8 @@
 | [36. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/36_RomantoInteger.java) | Easy |
 | [37. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/37_RangeSumQuery-Immutable.java) | Easy |
 | [38. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/38_CountVowelStringsInRanges.java) | Medium |
+| [39. Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/39_CheckIfStringIsaPrefixofArray.java) | Easy |
+| [40. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/40_SearchinRotatedSortedArray.java) | Medium |
 
 ## Contributor :  
 
