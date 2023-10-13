@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 41
+# Total: 42
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   26    |   13    |   2  |   40  |
+|   26    |   14    |   2  |   42  |
 
 # Problems :
 
@@ -59,6 +59,7 @@
 | [39. Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/39_CheckIfStringIsaPrefixofArray.java) | Easy |
 | [40. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/40_SearchinRotatedSortedArray.java) | Medium |
 | [41. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/41_AddTwoNumbers.java) | Medium |
+| [42. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/42_SwapNodesInPairs.java) | Medium |
 
 ## Contributor :  
 
