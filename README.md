@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 44
+# Total: 45
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   26    |   16    |   2  |   44  |
+|   26    |   17    |   2  |   45  |
 
 # Problems :
 
@@ -62,6 +62,7 @@
 | [42. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/42_SwapNodesInPairs.java) | Medium |
 | [43. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/43_FindMinimumInRotatedSortedArray.java) | Medium |
 | [44. Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/44_SortColors.java) | Medium |
+| [45. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/45_InsertGreatestCommonDivisorsInLinkedList.java) | Medium |
 
 ## Contributor :  
 
