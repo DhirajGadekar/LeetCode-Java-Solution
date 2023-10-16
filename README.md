@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 43
+# Total: 44
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   26    |   15    |   2  |   43  |
+|   26    |   16    |   2  |   44  |
 
 # Problems :
 
@@ -61,6 +61,7 @@
 | [41. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/41_AddTwoNumbers.java) | Medium |
 | [42. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/42_SwapNodesInPairs.java) | Medium |
 | [43. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/43_FindMinimumInRotatedSortedArray.java) | Medium |
+| [44. Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/44_SortColors.java) | Medium |
 
 ## Contributor :  
 
