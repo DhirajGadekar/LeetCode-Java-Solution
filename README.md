@@ -8,11 +8,11 @@
 </div>
 
 
-# Total: 45
+# Total: 67
 
 |   Easy  |  Medium | Hard | Total |
 |:-------:|:-------:|:----:|:-----:|
-|   26    |   17    |   2  |   45  |
+|   34    |   30    |   3  |   67  |
 
 # Problems :
 
@@ -63,6 +63,28 @@
 | [43. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/43_FindMinimumInRotatedSortedArray.java) | Medium |
 | [44. Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/44_SortColors.java) | Medium |
 | [45. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/45_InsertGreatestCommonDivisorsInLinkedList.java) | Medium |
+| [46. Spiral Matrix]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/46_SpiralMatrix.java) | Medium |
+| [47. Single Number](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/47_SingleNumber.java) | [Solution]() | Easy |
+| [48. Remove Duplicates From Sorted Array II]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/48_RemoveDuplicatesFromSortedArrayII.java) | Medium |
+| [49. Searcha 2D Matrix]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/49_Searcha2DMatrix.java) | Medium |
+| [50. Searcha 2D Matrix II]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/50_Searcha2DMatrixII.java) | Medium |
+| [51. Rotate Image]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/51_RotateImage.java) | Medium |
+| [52. Search in Rotated Sorted Array II]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/52_SearchinRotatedSortedArrayII.java) | Medium |
+| [53. Concatenation of Array]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/53_ConcatenationofArray.java) | Medium |
+| [54. Find The Original Array of Prefix XOR]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/54_FindTheOriginalArrayofPrefixXOR.java) | Medium |
+| [55. Middle of the Linked List]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/55_MiddleoftheLinkedList.java) | Easy |
+| [56. Check If Two String Arraysare Equivalent]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/56_CheckIfTwoStringArraysareEquivalent.java) | Easy |
+| [57. Remove Linked List Elements]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/57_RemoveLinkedListElements.java) | Easy |
+| [58. Reverse Linked List]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/58_ReverseLinkedList.java) | Easy |
+| [59. Palindrome Linked List]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/59_PalindromeLinkedList.java) | Easy |
+| [60. Reverse Linked List II]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/60_ReverseLinkedListII.java) | Medium |
+| [61. Reverse Nodes in k-Group]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Hard/61_ReverseNodesink-Group.java) | Hard |
+| [62. Implement Queue Using Stacks]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/62_ImplementQueueUsingStacks.java) | Easy |
+| [63. Subrectangle Queries]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/63_SubrectangleQueries.java) | Medium |
+| [64. Min Stack]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/64_MinStack.java) | Medium |
+| [65. Buildan Array With Stack Operations]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/65_BuildanArrayWithStackOperations.java) | Medium |
+| [66. Minimum Time to Make Rope Colorful]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Medium/66_MinimumTimetoMakeRopeColorful.java) | Medium |
+| [67. Remove Duplicates from Sorted List]() | [Solution](https://github.com/DhirajGadekar/LeetCode-Java-Solution/blob/main/Easy/67_RemoveDuplicatesfromSortedList.java) | Easy |
 
 ## Contributor :  
 
@@ -71,6 +93,7 @@
     <td align="center"><a href="https://github.com/DhirajGadekar"><img src="https://avatars.githubusercontent.com/u/111908836?v=4" width="100px;" alt="Dhiraj Gadekar"/><br/><sub><b>Dhiraj Gadekar</b></sub></a><br/>
 </tr>
 </table>
+Contributions are welcome! If you have any suggestions, improvements, or additional examples related to the Singleton pattern, feel free to open an issue or submit a pull request.
 
 ## Feedback
 
